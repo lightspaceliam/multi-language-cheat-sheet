@@ -1,3 +1,4 @@
 # We don't care about JavaScript files in this directory.
 playgrounds/typescript/**/**.js
 node_modules
+.DS_Store
