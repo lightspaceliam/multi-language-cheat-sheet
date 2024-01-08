@@ -1,2 +1,3 @@
-./playgrounds/typescript/**/**.js
+# We don't care about JavaScript files in this directory.
+./playgrounds/typescript/*.js
 node_modules

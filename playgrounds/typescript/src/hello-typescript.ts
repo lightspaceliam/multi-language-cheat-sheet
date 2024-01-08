@@ -1,6 +1,9 @@
 /**
  * Hello TypeScript
  */
-const message: string = 'Hello TypeScript';
 
-console.log(message);
+export const hello = (): string => {
+  return 'Hello TypeScript';
+};
+
+console.log(hello());
